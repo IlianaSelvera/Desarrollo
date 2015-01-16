@@ -20,6 +20,7 @@ namespace ProyectoPrueba
         private void btnHola_Click(object sender, EventArgs e)
         {
             lblHola.Visible = true;
+            MessageBox.Show("modifique este mensaje a las 11:34 am");
         }
     }
 }
