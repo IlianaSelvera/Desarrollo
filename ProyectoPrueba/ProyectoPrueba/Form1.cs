@@ -21,6 +21,7 @@ namespace ProyectoPrueba
         {
             lblHola.Visible = true;
             MessageBox.Show("modifique este mensaje a las 11:34 am");
+            MessageBox.Show("volvi a modificar a las 11:44 am");
         }
     }
 }
